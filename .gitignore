@@ -1,3 +1,4 @@
 gcp_notebook_token.txt
 *.pdf
 .ipynb_checkpoints
+email_corpus
